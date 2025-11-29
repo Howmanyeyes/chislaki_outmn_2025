@@ -9,7 +9,7 @@ a = 1.0
 m = 5
 U0 = m * (m + 1) * a**2
 l = 5.0 / a       
-N = 1200          
+N = 1000          
 num_modes = 5     
 
 x = np.linspace(-l, l, N)
